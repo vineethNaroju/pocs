@@ -1,0 +1,7 @@
+find ./inhere/* -readable -size 1033c -not -executable
+
+better 
+
+find ./inhere/* -readable -size 1033c -not -perm /111
+
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7

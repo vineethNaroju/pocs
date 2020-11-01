@@ -1,0 +1,19 @@
+xxd -r data.txt > somefile
+
+file somefile
+
+gzip -k(keep old files) -d(decompress) somefile 
+
+or 
+
+bzip2 -k -d somefile
+
+or
+
+tar -k -x(extract) -f somefile
+
+
+keep doing it until file type is ascii text
+
+
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL

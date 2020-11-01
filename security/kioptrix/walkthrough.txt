@@ -1,0 +1,15 @@
+ip a => subnet mask
+netstat -r => ip routing table
+
+
+
+network scan to see what they are running 
+-> nmap -A -T4 -sT gateway/subnet
+
+Apache is using 80, 443. Lets use nikto to scan them ( for known vulnerabilities, if any).
+
+-> nikto -h address -p 80
+
+nbtscan - no clue - samba tcp 139
+
+dirb - web content scanner - for exisitng or hidden web object

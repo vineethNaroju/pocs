@@ -1,0 +1,28 @@
+{
+    "emoji": [
+        {
+            "name": "none",
+            "value": "(ʘ‿ʘ)╯"
+        },
+
+        {
+            "name": "hello",
+            "value": "(ʘ‿ʘ)╯"
+        },
+
+        {
+            "name": "creepy",
+            "value": "ԅ(≖‿≖ԅ)" 
+        },
+
+        {
+            "name": "dunno",
+            "value":  "¯\\_(ツ)_/¯"
+        },
+
+        {
+            "name": "bearflip",
+            "value": "ʕノ•ᴥ•ʔノ ︵ ┻━┻"
+        }
+    ]
+}
