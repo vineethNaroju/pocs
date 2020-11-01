@@ -8,3 +8,5 @@ nodemailer\
 filebeat, elasticsearch\
 nginx\
 orchestrator - kubernetes\
+
+everything\
